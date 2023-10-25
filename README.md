@@ -37,7 +37,7 @@ For questions or feedback, please contact: giveawaynino143@gmail.com
 
 ```bash
 # Clone the repository
-git clone https://github.com/dynamo-pentester/CODSOFT-.git
+git clone https://github.com/dynamo-pentester/CODSOFT_INTERN_TASK_1.git
 
 # Install required libraries
 pip install PyQt5
