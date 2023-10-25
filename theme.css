@@ -1,0 +1,31 @@
+QMainWindow {
+    background-color: #000000;
+}
+
+#task_input, #time_input, #date_input {
+    background-color: #EAEAEA; /* Input boxes background color */
+}
+
+QLabel {
+    color: #fffcfc; /* Font color for labels */
+    font-family: 'Segoe UI', sans-serif;
+}
+
+QLineEdit {
+    color: #3a3a3a; /* Font color for input boxes */
+}
+
+QPushButton {
+    background-color: #646464; /* Button background color */
+    color: #ffffff; /* Button font color */
+    font-family: 'Segoe UI', sans-serif;
+}
+
+QListWidget {
+    color: #000000;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+QMessageBox {
+    background-color: #94f4f7; /* Alert message background color */
+}
