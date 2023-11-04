@@ -20,6 +20,9 @@ A simple To-Do List application with date and time-based task management.
 
 dynamo-pentester
 
+## license
+This project is licensed under the MIT License - see the [License](./LICENSE) file for details.
+
 ## Acknowledgments
 
 Thanks to the PyQt community.
